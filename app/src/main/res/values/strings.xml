@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="point_camera_hint">Point camera at text…</string>
+    <string name="msg_cleared">Cleared</string>
+    <string name="btn_scan_label">Scan Text</string>
+    <string name="btn_clear_label">Clear</string>
+</resources>
