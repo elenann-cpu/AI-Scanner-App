@@ -1,4 +1,5 @@
-AI Scanner App 📱🔍
+AI Text Scanner App 📱🔍
+
 AI Scanner is a modern Android application designed for Optical Character Recognition (OCR) with a focus on data security and user privacy. The app allows users to quickly digitize printed text while protecting sensitive information through intelligent data masking.
 
 ✨ Key Features
@@ -11,7 +12,7 @@ Modern UI/UX: Intuitive user interface featuring a polished design with a profes
 Quick Actions: Seamlessly copy scanned text to the clipboard or clear the screen with a single tap.
 
 🛠 Tech Stack
-Language: Kotlin / Java
+Language: Kotlin 
 
 Platform: Android SDK
 
