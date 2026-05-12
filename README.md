@@ -1,4 +1,6 @@
-AI Text Scanner App 📱🔍
+AI Text Scanner App 📱🔍 # AI Scanner App 📱🔍
+
+[![Demo Watch](https://img.shields.io/badge/DEMO-WATCH-red?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/user-attachments/assets/19773d52-b5f1-4972-9c11-e95b5733b68d)
 
 AI Scanner is a modern Android application designed for Optical Character Recognition (OCR) with a focus on data security and user privacy. The app allows users to quickly digitize printed text while protecting sensitive information through intelligent data masking.
 
