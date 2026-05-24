@@ -1,6 +1,10 @@
-AI Text Scanner App 📱🔍 
+<center>
 
-<a href="https://github.com/user-attachments/assets/19773d52-b5f1-4972-9c11-e95b5733b68d" target="_blank">
+# AI Text Scanner App 📱🔍 
+
+</center>
+
+<a href="https://github.com/user-attachments/assets/3ace6c32-0171-41fe-9945-06ef851e1c08" target="_blank">
   <img src="https://img.shields.io/badge/DEMO--WATCH-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Watch">
 </a>
 
