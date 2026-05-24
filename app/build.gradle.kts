@@ -58,4 +58,6 @@ dependencies {
     implementation("androidx.camera:camera-view:1.3.1")
     // Google ML Kit Text Recognition
     implementation("com.google.mlkit:text-recognition:16.0.0")
+
+    implementation("androidx.core:core-splashscreen:1.2.0")
 }

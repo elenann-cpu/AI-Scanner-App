@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TextRecognizer"
+rootProject.name = "AI Text Recognition"
 include(":app")

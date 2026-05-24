@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">Text Recognizer</string>
+    <string name="app_name">AI Text Recognition</string>
     <string name="point_camera_hint">Point camera at text…</string>
     <string name="point_camera_text">Point camera at text…</string>
     <string name="msg_cleared">Cleared</string>
     <string name="btn_scan_label">Scan</string>
     <string name="btn_copy_label">Copy</string>
     <string name="btn_clear_label">Clear</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
 </resources>

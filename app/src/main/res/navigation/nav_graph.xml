@@ -10,9 +10,11 @@
         android:name="com.example.textrecognizer.ScannerFragment"
         android:label="fragment_scanner"
         tools:layout="@layout/fragment_scanner" />
+
     <fragment
-        android:id="@+id/historyFragment"
-        android:name="com.example.textrecognizer.HistoryFragment"
-        android:label="fragment_history"
-        tools:layout="@layout/fragment_history" />
+        android:id="@+id/nav_notes_fragment"
+        android:name="com.example.textrecognizer.NotesFragment"
+        android:label="Notes"
+        tools:layout="@layout/fragment_notes" />
+
 </navigation>
