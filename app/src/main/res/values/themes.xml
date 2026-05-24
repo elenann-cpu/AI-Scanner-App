@@ -1,21 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
     <style name="Base.Theme.TextRecognizer" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#2965E3</item>
+
+        <item name="android:statusBarColor">#2965E3</item>
+
+        <item name="android:windowLightStatusBar">false</item>
     </style>
 
     <style name="Theme.TextRecognizer" parent="Base.Theme.TextRecognizer" />
 
-    <!-- Splash Screen Theme Configuration -->
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <!-- Background color behind your icon -->
         <item name="windowSplashScreenBackground">#1A237E</item>
 
-        <!-- App icon centered in the middle -->
         <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
 
-        <!-- The theme the app switches to once loading is done -->
         <item name="postSplashScreenTheme">@style/Theme.TextRecognizer</item>
     </style>
 </resources>
