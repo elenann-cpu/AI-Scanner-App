@@ -1,6 +1,6 @@
 <center>
 
-# AI Text Scanner App 📱🔍 
+# AI Text Scanner 📱🔍 
 
 </center>
 
